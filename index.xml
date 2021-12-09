@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riyan Firmansyah</title>
+    <link>https://ruz.fi/</link>
+    <description>Recent content on Riyan Firmansyah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <lastBuildDate>Fri, 10 Dec 2021 01:56:09 +0700</lastBuildDate><atom:link href="https://ruz.fi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Init</title>
+      <link>https://ruz.fi/posts/init/</link>
+      <pubDate>Fri, 10 Dec 2021 01:56:09 +0700</pubDate>
+      
+      <guid>https://ruz.fi/posts/init/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
